@@ -1,6 +1,10 @@
 // Definimos un usuario y contraseña válidos para la autenticación
 const validUsername = "admin";  // Cambia este valor si es necesario
 const validPassword = "12345";  // Cambia este valor si es necesario
+const validUsername = "Anto";  // Cambia este valor si es necesario
+const validPassword = "12345";  // Cambia este valor si es necesario
+const validUsername = "Assa";  // Cambia este valor si es necesario
+const validPassword = "12345";  // Cambia este valor si es necesario
 
 // Función para validar el login
 function validateLogin(event) {
